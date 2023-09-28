@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LenardAgbalo.github.io/Infinity-Vibe/static/css/main.8039f44f.css",
+    "main.js": "/LenardAgbalo.github.io/Infinity-Vibe/static/js/main.85092216.js",
+    "index.html": "/LenardAgbalo.github.io/Infinity-Vibe/index.html",
+    "main.8039f44f.css.map": "/LenardAgbalo.github.io/Infinity-Vibe/static/css/main.8039f44f.css.map",
+    "main.85092216.js.map": "/LenardAgbalo.github.io/Infinity-Vibe/static/js/main.85092216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8039f44f.css",
+    "static/js/main.85092216.js"
+  ]
+}
